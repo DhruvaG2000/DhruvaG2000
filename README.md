@@ -1,4 +1,4 @@
-![Welcome]("https://github.com/DhruvaG2000/DhruvaG2000/images/welcome.jpeg")
+<img src="https://raw.githubusercontent.com/DhruvaG2000/DhruvaG2000/master/images/welcome.jpeg" alt="Hero image">
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
