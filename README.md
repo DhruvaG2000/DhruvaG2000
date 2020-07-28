@@ -34,4 +34,4 @@ Here's a list of things I currently keep myself busy with:
 
 </p>
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<img src="https://github.com/DhruvaG2000/DhruvaG2000/blob/master/images/end.jpeg" alt="bottom">
