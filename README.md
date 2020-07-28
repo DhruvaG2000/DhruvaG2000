@@ -26,12 +26,9 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/DhruvaGole" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/dhruva-g-75ab26a5/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:goledhruva@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://twitter.com/DhruvaGole" alt="Twitter"><img src="https://raw.githubusercontent.com/DhruvaG2000/DhruvaG2000/8c0a4c3d0a94b78d27cf9cb3e86eb9dec88379e3/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/dhruva-g-75ab26a5/" alt="Linkedin"><img src="https://github.com/DhruvaG2000/DhruvaG2000/blob/master/readme/linkedin-fill.svg"></a>
+    <a href="mailto:goledhruva@gmail.com" alt="Contact me"><img src="https://github.com/DhruvaG2000/DhruvaG2000/blob/master/readme/mail-fill.svg"></a>
   </p>
 
-  <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=jayehernandez.visitor-badge">
-  </p>
 </p>
