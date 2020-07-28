@@ -1,4 +1,4 @@
-<img src="https://github.com/DhruvaG2000/DhruvaG2000/images/welcome.jpeg" alt="Hero image">
+<img images="https://github.com/DhruvaG2000/DhruvaG2000/images/welcome.jpeg" alt="Hero image">
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
@@ -16,7 +16,7 @@ Here's a list of things I currently keep myself busy with:
   - A huge fan of Mr. Robot! 
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=DhruvaG2000&show_icons=true)
   <br><br>
   [![HitCount](http://hits.dwyl.com/jayehernandez/jayehernandez.svg)](http://hits.dwyl.com/jayehernandez/jayehernandez)
 </details>
