@@ -29,6 +29,7 @@ Here's a list of things I currently keep myself busy with:
     <a href="https://twitter.com/DhruvaGole" alt="Twitter"><img src="https://raw.githubusercontent.com/DhruvaG2000/DhruvaG2000/8c0a4c3d0a94b78d27cf9cb3e86eb9dec88379e3/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/dhruva-g-75ab26a5/" alt="Linkedin"><img src="https://github.com/DhruvaG2000/DhruvaG2000/blob/master/readme/linkedin-fill.svg"></a>
     <a href="mailto:goledhruva@gmail.com" alt="Contact me"><img src="https://github.com/DhruvaG2000/DhruvaG2000/blob/master/readme/mail-fill.svg"></a>
+    <a href="https://www.youtube.com/channel/UCRlHtJBP90_AdxN5o0kgFAA/featured?view_as=subscriber" alt="YouTube"><img src="https://github.com/DhruvaG2000/DhruvaG2000/blob/master/readme/youtube.jpeg"></a>
   </p>
 
 </p>
