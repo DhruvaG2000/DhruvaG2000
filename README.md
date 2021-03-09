@@ -16,7 +16,7 @@ I have experience with:
   <summary>Some other facts about me!</summary>
   <br>
 
-  - My go to jam when coding: classical music Non-stop. ⭐️
+  - My go to jam when coding: Eminem, Linkin Park, sometimes classical ⭐️
   - A huge fan of Mr. Robot! 
   - Love to read and know about innovations in general.
   - Have a casual interest in encryption and online privacy.
