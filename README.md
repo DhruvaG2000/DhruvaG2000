@@ -13,6 +13,13 @@ I have experience with:
 - __2019 and 2020__: Making robots 🤖 at **[Society of Robotics and Automation](https://github.com/SRA-VJTI)** where we have conducted workshop to teach ROS(Robot Operating System), and also a self balancing and line following robot using the ESP32 MCU and PID implementation for the Control System. 
 - You can checkout my blog **[GDB For Noobs](https://sravjti.tech/2020/10/11/gdb-for-noobs.html)** where I explain the basic usage of a debugger. 
 
+I have contributed to open source with:
+- Writing a blog for SRA VJTI: [gdb-for-noobs PR#1](https://github.com/SRA-VJTI/blog/pull/1).
+- Added instructions for using an ADC library for UncleRus/esp-idf-lib in [PR#163](https://github.com/UncleRus/esp-idf-lib/pull/163). 
+- Tried to add librobotcontrol support to the BeagleBone AI in[PR#204](https://github.com/beagleboard/librobotcontrol/pull/204).
+- Added a device tree overlay for BeagleBone AI using the Cape Compatiblity layer and merged to the official BeagleBoard-Device Trees repo in [PR#](https://github.com/beagleboard/BeagleBoard-DeviceTrees/pull/33).
+- Fixed [issue#34](https://github.com/beagleboard/BeagleBoard-DeviceTrees/issues/34) in the audio overlay for the BBAI that was causing a minor offset in the output audio frequency in [PR#](https://github.com/beagleboard/BeagleBoard-DeviceTrees/pull/36).
+- Added dependency and updated README in PRUDebug in [PR#1](https://github.com/giuliomoro/prudebug/pull/1).
 
 <details>
   <summary>Some other facts about me!</summary>
