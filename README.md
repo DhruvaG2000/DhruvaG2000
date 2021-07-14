@@ -32,8 +32,8 @@ I have contributed to open source with:
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=DhruvaG2000&show_icons=true)
   <br><br>
-  [![HitCount](http://hits.dwyl.com/jayehernandez/jayehernandez.svg)](http://hits.dwyl.com/jayehernandez/jayehernandez)
-</details>
+  
+![](https://komarev.com/ghpvc/?username=DhruvaG2000)
 
 <hr>
 <p align="center">
