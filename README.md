@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/DhruvaG2000/DhruvaG2000/master/images/logodg1.png" alt="Hero image">
 
+Visit my Website: https://dhruvagole.tech 
+
+
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
 Here's a list of things I currently keep myself busy with:
