@@ -39,13 +39,13 @@ I have contributed to open source with:
   ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/DhruvaG2000/DhruvaG2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozer619&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dhruva's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvag2000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dhruva's GitHub Stats" />
 </a>
 
 ## 
 
 <a href="https://github.com/DhruvaG2000/DhruvaG2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozer619&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvag2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
 
   
