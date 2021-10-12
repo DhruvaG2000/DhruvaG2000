@@ -24,18 +24,6 @@ I have contributed to open source with:
 - Fixed [issue#34](https://github.com/beagleboard/BeagleBoard-DeviceTrees/issues/34) in the audio overlay for the BBAI that was causing a minor offset in the output audio frequency in [PR#33](https://github.com/beagleboard/BeagleBoard-DeviceTrees/pull/36).
 - Added dependency and updated README in PRUDebug in [PR#1](https://github.com/giuliomoro/prudebug/pull/1).
 
-<details>
-  <summary>Some other facts about me!</summary>
-  <br>
-
-  - My go to jam when coding: Eminem, Linkin Park, sometimes classical ⭐️
-  - A huge fan of Mr. Robot! 
-  - Love to read and know about innovations in general.
-  - Have a casual interest in encryption and online privacy.
-
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=DhruvaG2000&show_icons=true)
-  <br><br>
-  
   ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/DhruvaG2000/DhruvaG2000">
@@ -48,6 +36,16 @@ I have contributed to open source with:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvag2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
 
+
+
+<details>
+  <summary>Some other facts about me!</summary>
+  <br>
+
+  - My go to jam when coding: Eminem, Linkin Park, sometimes classical ⭐️
+  - A huge fan of Mr. Robot! 
+  - Love to read and know about innovations in general.
+  - Have a casual interest in encryption and online privacy.
   
 ![](https://komarev.com/ghpvc/?username=DhruvaG2000)
 
