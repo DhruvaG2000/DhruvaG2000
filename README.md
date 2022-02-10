@@ -7,8 +7,7 @@ I like experimenting with new technologies, building small projects, and occassi
 
 Here's a list of things I currently keep myself busy with:
 - ✍️ Part of a robotics club called the **[Society of Robotics and Automation](http://sra.vjti.info/)** in our college.
-- Part of GSoC2021 with **[BeagleBoard](https://beagleboard.org/)**, and you can find my proposal, [bela support for bbai](https://elinux.org/BeagleBoard/GSoC/2021_Proposal/bela_on_bbai).  
-- Working parallely on an EV Charger Project with **Magnes Motors** (A VJTI TBI Start-up).  
+- Working on an EV Charger Project with **BatteryPool** as an embedded systems intern.  
 
 I have experience with:
 - __Dec2020-Apr2021__: 👩🏻💻 Developing node IOT hardware solution over at **[Finemen Diagnostics and Instruments](https://github.com/Finemen-Diagnostics-and-Instruments)** using the ESP32 as the MCU, and communicating with AWS IOT core over 4G (LTE).
