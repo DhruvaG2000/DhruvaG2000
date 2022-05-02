@@ -7,7 +7,7 @@ I like experimenting with new technologies, building small projects, and occassi
 
 Here's a list of things I currently keep myself busy with:
 - ✍️ Part of a robotics club called the **[Society of Robotics and Automation](http://sra.vjti.info/)** in our college.
-- Working on an EV Charger Project with **BatteryPool** as an embedded systems intern.  
+- Contributing to Rizin (A Reverse Engineering Framework written in C).
 
 I have experience with:
 - __Dec2020-Apr2021__: 👩🏻💻 Developing node IOT hardware solution over at **[Finemen Diagnostics and Instruments](https://github.com/Finemen-Diagnostics-and-Instruments)** using the ESP32 as the MCU, and communicating with AWS IOT core over 4G (LTE).
