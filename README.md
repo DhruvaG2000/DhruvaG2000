@@ -1,13 +1,10 @@
 <img src="https://raw.githubusercontent.com/DhruvaG2000/DhruvaG2000/master/images/logodg1.png" alt="Hero image">
 
-Visit my Website: https://dhruvagole.tech 
-
-
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
 Here's a list of things I currently keep myself busy with:
-- ✍️ Part of a robotics club called the **[Society of Robotics and Automation](http://sra.vjti.info/)** in our college.
-- Contributing to Rizin (A Reverse Engineering Framework written in C).
+- Linux and U-Boot Driver Development at Texas Instruments India.
+- Contributing to Zephyr RTOS and also maintaining the [Arduino Core API for Zephyr](https://github.com/zephyrproject-rtos/gsoc-2022-arduino-core).
 
 I have experience with:
 - __Dec2020-Apr2021__: 👩🏻💻 Developing node IOT hardware solution over at **[Finemen Diagnostics and Instruments](https://github.com/Finemen-Diagnostics-and-Instruments)** using the ESP32 as the MCU, and communicating with AWS IOT core over 4G (LTE).
